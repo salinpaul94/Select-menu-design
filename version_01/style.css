@@ -17,3 +17,10 @@
 .selector {
   width: 350px;
 }
+
+#selectField {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 15px 20px;
+  border-radius: 6px;
+}
