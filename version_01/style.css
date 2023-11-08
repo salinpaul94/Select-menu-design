@@ -40,3 +40,10 @@
   border-radius: 6px;
   overflow: hidden;
 }
+
+.options {
+  width: 100%;
+  padding: 15px;
+  list-style: none;
+  cursor: pointer;
+}
