@@ -7,3 +7,4 @@ for (let option of options) {
     selectText.innerHTML = this.textContent;
   };
 }
+
