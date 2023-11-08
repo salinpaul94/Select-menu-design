@@ -10,5 +10,6 @@ selectField.onclick = function () {
 for (let option of options) {
   option.onclick = function () {
     selectText.innerHTML = this.textContent;
+    list.classList.toggle("hide");
   };
 }
